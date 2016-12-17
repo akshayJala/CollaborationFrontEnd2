@@ -180,4 +180,3 @@ app.controller('BlogController',['$scope','BlogService','$location','$rootScope'
                           					});
                           		};
 }])
-                          	

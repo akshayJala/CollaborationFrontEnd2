@@ -41,7 +41,7 @@ app.factory('FriendService', ['$http', '$q', '$rootScope', function($http, $q, $
 			},
 			
 			deleteFriend: function(id){
-				return $http.delete(BASE_URL+'/friend/'+id)
+				return $http,delete(BASE_URL+'/friend/'+id)
 				.then(
 						function(response){
 							return response.data;
