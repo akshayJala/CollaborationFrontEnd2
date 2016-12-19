@@ -1,4 +1,6 @@
 # CollaborationFrontEnd
+# Site name:
+EWAO- Earth We Are One.
 #Title:
 Collaboration Project using Angular JS and Spring.
 #Technology Used:
